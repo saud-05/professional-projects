@@ -3,9 +3,9 @@
 Hi, and welcome to my project summary!
 
 I’m a full-stack developer experienced in building real-world applications using:
-⚙️ **Backend:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB,  REST APIs .
-💻 **Frontend:** React.js, Next js, Zustand, Tailwind CSS, shadcn.
-☁️ **Other:**  Cloud deployment AWS S3, EC2 , RDS , Email integrations, AI integration, Role-based Auth, Clean Architecture.
+-⚙️ **Backend:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB,  REST APIs .
+-💻 **Frontend:** React.js, Next js, Zustand, Tailwind CSS, shadcn.
+-☁️ **Other:**  Cloud deployment AWS S3, EC2 , RDS , Email integrations, AI integration, Role-based Auth, Clean Architecture.
 
 
 ## 🚫 Why Aren’t My Best Projects Public?
